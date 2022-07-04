@@ -1,12 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
     font-size: 50px;
 }
 
-section {
+.top {
     display: flex;
 }
 
@@ -23,3 +24,16 @@ section {
     font-weight: 700;
     border-radius: 5px;
 }
+
+.half-width,
+img {
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.middle {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.
